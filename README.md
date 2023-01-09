@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/arugee001/test01_java/_apis/build/status/arugee001.javaTest01?branchName=main)](https://dev.azure.com/arugee001/test01_java/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
